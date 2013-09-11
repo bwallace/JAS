@@ -17,7 +17,7 @@ boundary boundary:case_id=BMC3013_1
 …
 boundary boundary:case_id=XXX
 
-Where the "boundary" strings demarcate a new session. The last two (comma-separated) entries are the topic and speech act, respectively. 
+Where the "boundary" strings demarcate a new session. The last two (comma-separated) entries are the topic and speech act, respectively. The numbers are assumed to map to tokens (features).
 
 Sample usage
 --
